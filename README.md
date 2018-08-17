@@ -5,11 +5,11 @@ Existen 215.124 Sequencing Projects y 174.491 Analysis Projects en JGI-GOLD. Los
 ##### 2. ¿Cuál es el dominio más representado en la base de datos, archea, bacteria, eukaryote, o virus?
 El dominio más representado en la JGI-GOLD son las bacterias.
 ##### 3. ¿Cuáles son los phyla más representados entre los proyectos de genomas bacterianos en la base de datos?
-La mayoría de los proyectos relacionados con el grupo filogenético bacterial corresponden a proteobacterias, con un 37,3%.
-##### 4. ¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD? (tipo de proyecto, se refiere al tópico de la investigación, por ejemplo, salud humana, ambiental, etc.)
-
+La mayoría de los proyectos bacteriales corresponden a proteobacterias, con un 37,3% de predominancia.
+##### 4. ¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD?
+La mayoría de los proyectos a partir de bacterias son de tipo médico, con 58,9% de relevancia.
 ##### 5. ¿Cuál es el artículo original del genoma? (en el cual se reporta la sequenciación y ensamble del genoma)
-
+[(Pan paniscus)](https://www.ncbi.nlm.nih.gov/genome/?term=Pan+paniscus)
 ##### 6. Explica, qué es el N50, L50, y NG50.
 
 ##### 7. ¿Cuál es el propósito de calcular estas estadísticas?
