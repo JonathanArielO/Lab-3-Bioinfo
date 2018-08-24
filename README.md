@@ -9,7 +9,7 @@ La mayoría de los proyectos bacteriales corresponden a proteobacterias, con un 
 ##### 4. ¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD?
 La mayoría de los proyectos a partir de bacterias son de tipo médico, con 58,9% de relevancia.
 ##### 5. ¿Cuál es el artículo original del genoma? (en el cual se reporta la sequenciación y ensamble del genoma)
-[(Pan paniscus)](https://www.ncbi.nlm.nih.gov/genome/?term=Pan+paniscus)
+[(Pan paniscus)](https://academic.oup.com/mbe/article/3/1/1/1034106)
 ##### 6. Explica, qué es el N50, L50, y NG50.
 EL N50 es la longitud de secuencia más corta tomando en cuenta la mitad del genoma, el que puede considerarse base los contigs de mayor longitud; L50 se define como la menor cantidad de contigs que al sumarse sus longitudes produce el N50; y la estadística NG50 es igual a N50, excepto que toma como referencia el tamaño del genoma, lo cual permite compararlo con otros sin tantos problemas.
 ##### 7. ¿Cuál es el propósito de calcular estas estadísticas?
