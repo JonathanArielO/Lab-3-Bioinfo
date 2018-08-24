@@ -22,7 +22,7 @@ La longitud del genoma de Bonobo es de 3286,64 Mb y tiene un 42,3185% de conteni
 Se secuenció en 454 GS FLX/ 454 GS FLX Titanium, con el método Celera Assembler v. 5.4.3.
 ## Parte 2: Predicción de genes
 ##### 11. Describe los resultados obtenidos. ¿Cuántos ORFs o genes encontró ORFfinder? ¿En qué hebra están codificados? ¿De qué largo son los ORFs predichos? ¿Algunos de ellos se sobreponen (fíjate en la posición de inicio [start] y término [stop])?
-!(https://github.com/JonathanArielO/Lab-3-Bioinfo/blob/master/ORF1.png)
+! (https://github.com/JonathanArielO/Lab-3-Bioinfo/blob/master/ORF1.png)
 Se encontraron 7 genes mediante ORFfinder
 ##### 12. ¿Qué tipo de programa es ORFfinder, Ab initio o por homología?
 
