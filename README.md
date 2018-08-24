@@ -24,7 +24,17 @@ Se secuenció en 454 GS FLX/ 454 GS FLX Titanium, con el método Celera Assemble
 ##### 11. Describe los resultados obtenidos. ¿Cuántos ORFs o genes encontró ORFfinder? ¿En qué hebra están codificados? ¿De qué largo son los ORFs predichos? ¿Algunos de ellos se sobreponen (fíjate en la posición de inicio [start] y término [stop])?
 ![](https://github.com/JonathanArielO/Lab-3-Bioinfo/blob/master/ORF1.png)
 
-Se encontraron 7 genes mediante ORFfinder
+Se encontraron 7 ORFs mediante ORFfinder, 3 en la hebra positiva y 4 en la negativa, con los siguientes tamaños: 
+
+    - ORF1: 909nt
+    - ORF2: 78nt
+    - ORF3: 99nt
+    - ORF4: 441nt
+    - ORF5: 405nt
+    - ORF6: 84nt
+    - ORF7: 144nt
+
+entre estas ORF6 se sobrepone a ORF4, debido a que se encuentran en la misma hebra.
 ##### 12. ¿Qué tipo de programa es ORFfinder, Ab initio o por homología?
 
 ##### 13. ¿A qué organismo pertenece la secuencia en cuestión?
