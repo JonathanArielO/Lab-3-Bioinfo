@@ -40,6 +40,7 @@ ORFfinder utiliza un método de predicción Ab initio.
 ##### 13. ¿A qué organismo pertenece la secuencia en cuestión?
 
 ![](https://github.com/JonathanArielO/Lab-3-Bioinfo/blob/master/Hi.png)
+
 Haemophilus influenzae
 ##### 14. ¿Qué gen(s) está(n) codificados en la secuencia?
 
